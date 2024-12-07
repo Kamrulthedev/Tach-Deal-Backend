@@ -35,7 +35,7 @@ E-Shop is an Online Shop Web Application that facilitates buying and selling pro
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/Kamrulthedev/Teck-Deal`
+1. Clone the repository: `git clone https://github.com/Kamrulthedev/Tach-Deal-Backend`
 2. Navigate to the project directory: `cd E-Shop`
 3. Install dependencies:
    - For frontend: `cd frontend && npm install`
