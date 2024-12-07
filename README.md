@@ -24,13 +24,6 @@ E-Shop is an Online Shop Web Application that facilitates buying and selling pro
   - View and manage orders
   
 ## Technologies Used
-
-- **Frontend:**
-  - TypeScript
-  - Next.js
-  - Redux(state-Management)
-
-- **Backend:**
   - Node.js
   - Express.js
 
@@ -39,10 +32,6 @@ E-Shop is an Online Shop Web Application that facilitates buying and selling pro
 
 ## Payment Gateways
 
-- Bkash
-- Nagad
-- Rocket
-- Upai
 
 ## Installation
 
